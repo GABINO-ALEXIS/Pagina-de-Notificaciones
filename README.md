@@ -9,7 +9,6 @@ Esta es una solución al [desafío de la página de notificaciones en Frontend M
    - [El reto](#el-reto)
    - [Enlaces](#enlaces)
    - [Construido con](#construido-con)
-   - [Lo que aprendí](#lo-que-aprendí)
 - [Autor](#autor)
 
 ## Descripción general
@@ -25,7 +24,6 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [Agregue la URL de la solución aquí] (https://your-solution-url.com)
 - URL del sitio en vivo: [Agregue la URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
 ### Construido con
@@ -44,6 +42,4 @@ Los usuarios deben ser capaces de:
 Use esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto. Escribirlos y proporcionar ejemplos de código de las áreas que desea resaltar es una excelente manera de reforzar su propio conocimiento.
 
 ## Autor
-
-- Sitio web - [Agregue su nombre aquí] (https://www.your-site.com)
-- Mentor de frontend - [@tunombredeusuario](https://www.frontendmentor.io/profile/tunombredeusuario)
+- Mentor de frontend - [@GABINO-ALEXIS](https://www.frontendmentor.io/profile/GABINO-ALEXIS)
